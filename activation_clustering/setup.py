@@ -32,6 +32,7 @@
 
 from setuptools import find_packages
 from setuptools import setup
+from setuptools import settings
 
 setup(
     name="activation_clustering",
